@@ -1,0 +1,13 @@
+{
+	"name": "slow_and_steady",
+	"version": "2.0.1",
+	"factorio_version": "2.0",
+	"title": "Slow and Steady",
+	"author": "darkstorm2150",
+	"description": "Embrace the Journey, Not Just the Destination\n\nRediscover the joy of railroading in Factorio with Slow and Steady, the innovative mod that transforms your train experience.\n\nKey Features\nRealistic Train Speeds: Experience the thrill of a more leisurely pace, where the journey becomes just as important as the destination.\n\nEnhanced Realism: Locomotives now heavier, more powerful, and resilient, but with a more realistic top speed.\nCargo & Fluid Wagons: Increased weight and capacity, with enhanced health, to simulate the challenges and rewards of hauling heavier loads.\n\nImmersive Railroading Experience: Focus on the journey, not just the rapid transportation, and discover a new level of engagement with your Factorio world.",
+	"homepage": "",
+	"source": "",
+	"dependencies": [
+		"base"
+	]
+}
